@@ -1,3 +1,3 @@
 # myfirst
 my first repository
-author-me
+author-manjusha
